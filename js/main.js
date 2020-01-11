@@ -54,7 +54,7 @@ function FLICKSTATUS() {
 
     $(".tttleft").empty();
     $(".tttmiddle").empty();
-    $(".tttleft").append('<img src="flags/1x1/' + rC + '.svg" class="flick-flag">');
+    $(".tttleft").append('<img src="https://mrhacker0666.github.io/ttf/flags/1x1/' + rC + '.svg" class="flick-flag">');
     $(".tttmiddle").append('<h5 class="m-0"></span> ' + rIP + ' received <br><strong>' + rA + ' new fans</strong></h5>');
     $(".tttleft").fadeIn(1250);
     $(".tttmiddle").fadeIn(1250);
