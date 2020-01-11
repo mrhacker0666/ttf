@@ -163,7 +163,7 @@ function s_1() {
                       clearInterval(SI4);
 
                       ////
-                      var L5 = 'Hacking finished ...';
+                      var L5 = 'Finished ...';
 
                       var L555 = L5 + '<strong>' + PERPER + '%</strong>';
 
