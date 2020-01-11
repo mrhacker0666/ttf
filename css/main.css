@@ -1,0 +1,222 @@
+@font-face {
+    font-family: "Sofia";
+    src: url("sofia.otf") format("opentype");
+}
+
+#particles-js {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  z-index: 3;
+}
+
+.XDD {
+  z-index: 4 !important;
+  max-height: 100%;
+}
+
+.tttleft {
+  z-index: 4 !important;
+  width: 17.5%;
+  height: 100%;
+  display: flex !important;
+  flex-direction: column !important;
+  align-items: center !important;
+  justify-content: center !important;
+}
+
+.tttmiddle {
+  z-index: 4 !important;
+  width: 65%;
+  height: 100%;
+  display: flex !important;
+  flex-direction: column !important;
+  align-items: center !important;
+  justify-content: center !important;
+}
+
+.tttright {
+  z-index: 4 !important;
+  width: 17.5%;
+  height: 100%;
+  display: flex !important;
+  flex-direction: column !important;
+  align-items: center !important;
+  justify-content: center !important;
+}
+
+h1 {
+  font-size: 2rem !important;
+}
+
+.s_2, .s_3, .s_4 {
+    display: none;
+}
+
+XXX {
+    display: none !important;
+}
+
+body {
+    min-height: 100vh !important;
+    display: flex !important;
+    flex-direction: column !important;
+    align-items: center !important;
+    justify-content: center !important;
+    background-color: #1a1a1d;
+    color: #ffffff;
+    font-family: "Sofia" !important;
+}
+
+.tttop {
+  height: 10vh !important;
+  background-color: #323238;
+  display: flex !important;
+  flex-direction: row !important;
+  align-items: center !important;
+  justify-content: center !important;
+  border-bottom: 2px solid rgb(255, 0, 79);
+}
+
+.mmmain {
+  background-color: #1a1a1d;
+  height: 82.5vh !important;
+  display: flex !important;
+  flex-direction: column !important;
+  align-items: center !important;
+  justify-content: center !important;
+}
+
+.bbbottom {
+  height: 7.5vh !important;
+  background-color: #323238;
+  display: flex !important;
+  flex-direction: row !important;
+  align-items: center !important;
+  justify-content: center !important;
+  border-top: 2px solid rgb(255, 0, 79);
+}
+
+.bg-1 {
+    background-color: #4e4e50;
+}
+
+.bg-2 {
+    background-color: #6f2232;
+}
+
+.bg-3 {
+    background-color: #950740;
+}
+
+.bg-4 {
+    background-color: #c3073f;
+}
+
+.bg-5 {
+    background-color: #cccccc !important;
+}
+
+.bg-6 {
+    background-color: rgb(255, 0, 79) !important;
+}
+
+.c-1 {
+    color: #4e4e50 !important;
+}
+
+.c-2 {
+    color: #6f2232 !important;
+}
+
+.c-3 {
+    color: #950740 !important;
+}
+
+.c-4 {
+    color: #c3073f !important;
+}
+
+.c-5 {
+    color: #cccccc !important;
+}
+
+.c-6 {
+    color: rgb(255, 0, 79) !important;
+}
+
+.c-7 {
+    color: rgb(18, 243, 235) !important;
+}
+
+.btn-1 {
+    border: 0 !important;
+    background-color: rgb(255, 0, 79) !important;
+    color: #fff !important;
+}
+
+.btn-2 {
+    border: 0 !important;
+    background-color: rgb(18, 243, 235) !important;
+    color: #000 !important;
+}
+
+.flick-img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 64px;
+}
+
+.flick-logo {
+    height: 100%;
+    background-color: #000;
+    border: 2px solid rgb(255, 0, 79) !important;
+    border-radius: 1rem;
+    padding: 0.5rem;
+}
+
+.NAT, .flick-logo, #loading1, #loading2, #loading3 {
+  display: none;
+}
+
+.flick-flag {
+  height: 100%;
+  border-radius: 1rem;
+  padding: 0.25rem;
+}
+
+.ffflick {
+    font-size: 4rem !important;
+}
+
+label {
+    font-size: 1.15rem;
+}
+
+h5 {
+    font-weight: 400 !important;
+}
+
+.t-user {
+    font-size: 1.44rem !important;
+}
+
+.l-m {
+    font-size: 1.25rem;
+}
+
+input, select {
+    text-align: center !important;
+    text-align-last: center !important;
+}
+
+.flick-avatar {
+    border: 1px solid #fff;
+    width: 100%;
+    margin: 0 auto;
+    padding-bottom: 100%;
+    border-radius: 1337rem;
+    background-size: cover;
+    background-position: center center;
+}
